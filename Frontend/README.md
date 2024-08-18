@@ -49,13 +49,13 @@ Make sure you have the following software installed on your machine:
 First, clone the repository using the following command:
 
 ```
-git clone https://github.com/hasan-fahad/Fitness-Accessories-and-Equipment.git
+git clone https://github.com/hasan-fahad/Full-Stack-Assignment.git
 
 ```
 
 ### Installing Dependencies
 
-Open the project file in terminal and run `npm install`
+Open the project file in the terminal and run `npm install`
 
 ```
 npm install
