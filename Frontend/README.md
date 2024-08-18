@@ -26,9 +26,6 @@ Additionally, the useState hook supports the use of functional updates, allowing
 
 In conclusion, the useState hook is an ideal choice for handling state in complex components due to its simplicity, flexibility, and efficient state management capabilities. By leveraging the useState hook, developers can build robust and maintainable components that effectively manage state in a complex application with ease.
 
-## Live URL
-
-[Fitness Accessories and Equipment](https://frontend-8i33ibjlo-hasanfahads-projects.vercel.app/)
 
 
 ## Technology Stack
