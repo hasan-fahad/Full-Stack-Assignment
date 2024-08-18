@@ -1,0 +1,42 @@
+.main-content {
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  .hero {
+    background-color: #EDEAFD;
+    padding: 40px 0;
+  }
+  
+  .hero h1 {
+    margin-bottom: 20px;
+    font-size: 36px;
+  }
+  
+  .search-bar {
+    display: inline-flex;
+    border-radius: 5px;
+    overflow: hidden;
+  }
+  
+  .search-bar input {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-right: none;
+    outline: none;
+  }
+  
+  .search-bar button {
+    padding: 10px 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    cursor: pointer;
+  }
+  
+  .cards {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    padding: 40px 20px;
+  }
