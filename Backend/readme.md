@@ -30,7 +30,7 @@ Make sure you have the following software installed on your machine:
 First, clone the repository using the following command:
 
 ```
-https://github.com/hasan-fahad/Fitness-Accessories-and-Equipment-Server.git
+https://github.com/hasan-fahad/Full-Stack-Assignment.git
 
 ```
 
@@ -50,12 +50,12 @@ npm install
 Once you have set up the environment variables, you can run the project locally.
 
 ```
-npm run start
+npm start
 
 ```
 
 ### Accessing the Project
 
 ```
-http://localhost:3000/
+http://localhost:3000/cards/
 ```
